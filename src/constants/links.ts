@@ -4,7 +4,7 @@ export const FOOTER_LINKS = [
         links: [
             { name: "Home", href: "/" },
             { name: "Features", href: "/" },
-            { name: "Github", href: "https://github.com/Shivam171/next-hire-ai" },
+            { name: "Github", href: "https://github.com/mukulre/HireQ" },
         ],
     },
     {
