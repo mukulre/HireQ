@@ -57,7 +57,7 @@ const Menu = () => {
                     </NavigationMenuContent>
                 </NavigationMenuItem>
                 <NavigationMenuItem>
-                    <Link href="https://github.com/Shivam171/next-hire-ai" legacyBehavior passHref>
+                    <Link href="https://github.com/mukulre/HireQ" legacyBehavior passHref>
                         <NavigationMenuLink className="h-10 px-4 py-2 text-sm font-medium rounded-md text-muted-foreground hover:text-foreground w-max hover:bg-none">
                             🌐 Github
                         </NavigationMenuLink>
